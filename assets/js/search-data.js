@@ -113,11 +113,18 @@ ninja.data = [{
           window.open("mailto:%70%72%75%68%6E%61%75@%6C%61%6E%63%61%73%68%69%72%65.%61%63.%75%6B", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-bluesky',
+        title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("pruhnau.bsky.social", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/philippruhnau", "_blank");
         },
       },{
         id: 'social-scholar',
