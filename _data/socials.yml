@@ -3,8 +3,8 @@
 # the socials will be displayed in the order they are defined here
 
 email: pruhnau@lancashire.ac.uk # your email address
-#bluesky_url: pruhnau.bsky.social # your bluesky URL
-#github_username: philippruhnau # your GitHub user name
+bluesky_url: pruhnau.bsky.social # your bluesky URL
+github_username: philippruhnau # your GitHub user name
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
@@ -33,7 +33,7 @@ email: pruhnau@lancashire.ac.uk # your email address
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
+#rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 4P0RoiAAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
